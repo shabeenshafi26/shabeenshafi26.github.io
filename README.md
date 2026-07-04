@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Shabeen Shafi | Cybersecurity Portfolio</title>
+  <title>Shabeen Begum S | Cybersecurity Portfolio</title>
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
     
@@ -423,7 +423,7 @@
 <div class="hero">
   <div>
     <div class="hero-badge">🛡️ Cybersecurity Fresher</div>
-    <h1>Hi, I'm <span>Shabeen Shafi</span></h1>
+    <h1>Hi, I'm <span>Shabeen Begum S</span></h1>
     <p>Aspiring SOC Analyst passionate about Blue Team 
     operations, threat detection, and incident response. 
     Building real-world skills through hands-on homelabs.</p>
@@ -461,11 +461,11 @@
     <div class="about-info">
       <div class="info-item">
         <span class="info-label">Name</span>
-        <span class="info-value">Shabeen Shafi</span>
+        <span class="info-value">Shabeen Begum S</span>
       </div>
       <div class="info-item">
         <span class="info-label">Location</span>
-        <span class="info-value">Coimbatore, Tamil Nadu, India</span>
+        <span class="info-value">Chennai, Tamil Nadu, India</span>
       </div>
       <div class="info-item">
         <span class="info-label">Focus</span>
